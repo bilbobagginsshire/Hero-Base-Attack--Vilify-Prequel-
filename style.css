@@ -1,0 +1,10 @@
+/* Main stylesheet */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+#footer{
+    clear:both;
+    position: relative;
+}
